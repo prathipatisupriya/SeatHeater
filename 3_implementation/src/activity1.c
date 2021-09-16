@@ -1,6 +1,6 @@
 /**
  * @file Activity1.c
- * @author prathipati supriya (you@domain.com)
+ * @author supriya (you@domain.com)
  * @brief Seat Checking
  * @version 0.1
  * @date 2021-09-16
