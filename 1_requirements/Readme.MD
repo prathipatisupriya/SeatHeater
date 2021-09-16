@@ -42,4 +42,22 @@
  ## How
   By based on the sensor in system it raises the temperaature
   
-   
+  ## High level requirements
+ | High Level Requirements | Description |
+ | :----: | :-----: | 
+ | HR01 | Microcontroller |
+ | HR02 | Temperature Sensor |
+ | HR03 | Heat Generation |
+ | HR04 | Display |
+ | HR05 | Software used |
+
+ ## Low level requirements
+ | ID |	Description | HRID |
+ | :----: | :-----: | :-----:|
+ | LR01 | ATmega328 | HR01 |
+ | LR02	| LM35 and ADC | HR02 |
+ | LR03 | ADC with PWM-fast | HR02 |
+ | LR04 | Thermoelectric module | HR03 |
+ | LR05 | LCD and LED | HR04 |
+ | LR06 | Code Blocks with AVR GCC compiler | HR05 |
+ | LR07 | SimulIDE | HR05 |
